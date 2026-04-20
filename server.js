@@ -1,0 +1,1 @@
+app.use("/orders", require("./routes/order"));

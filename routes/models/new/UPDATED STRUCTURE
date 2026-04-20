@@ -1,0 +1,6 @@
+backend/
+ ├── routes/auth.js ⭐ NEW
+
+frontend/
+ ├── pages/Login.js ⭐ NEW
+ ├── pages/Admin.js (protected)
